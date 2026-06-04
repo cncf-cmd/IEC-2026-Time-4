@@ -1,0 +1,4 @@
+# Local venv + generated outputs + exported data (not for commit)
+.venv/
+report.md
+*.csv
