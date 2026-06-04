@@ -90,7 +90,9 @@ _Window: sessions on/after the 2026-05-28 workshop. Minimocks only._
 _Examples — Eloquence:_
 
 > **Use vocabulário mais sofisticado** — Você usou frases simples e diretas, mas poderia ter utilizado um vocabulário mais amplo e sofisticado para expressar suas ideias.
+
 > **Develop your vocabulary** — Use more varied and precise language to convey your ideas and thoughts.
+
 > **Desenvolva sua linguagem** — Você usou expressões como 'opa' e 'nunca trabalhei em grupo'. Tente usar uma linguagem mais formal.
 
 **Top strengths** (by skill, mentions):
@@ -104,7 +106,9 @@ _Examples — Eloquence:_
 _Examples — Storytelling:_
 
 > **Great use of the STAR method** — You provided a specific example of explaining a technical concept to a colleague and described the outcome.
+
 > **Você contou histórias interessantes e específicas** — Você usou o método STAR para compartilhar exemplos concretos e específicos, tornando as suas respostas mais atraentes e convincentes.
+
 > **Good use of the STAR method** — You were about to tell a story using the Situation, Task, Action, Result (STAR) method, but didn't complete it.
 
 ---
